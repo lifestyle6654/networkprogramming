@@ -1,0 +1,10 @@
+Thu Mar 31 12:33:04 2022: Temp=26, Humid=39, lilum=95
+Thu Mar 31 12:33:12 2022: Temp=13, Humid=31, lilum=100
+Thu Mar 31 12:33:16 2022: Temp=37, Humid=16, lilum=142
+Thu Mar 31 12:33:22 2022: Temp=32, Humid=35, lilum=135
+Thu Mar 31 12:33:31 2022: Temp=29, Humid=83, lilum=116
+Thu Mar 31 12:33:41 2022: Heartbeat=56, Steps=5720, Cal=2799
+Thu Mar 31 12:33:46 2022: Heartbeat=79, Steps=2700, Cal=3234
+Thu Mar 31 12:33:50 2022: Heartbeat=108, Steps=4922, Cal=1827
+Thu Mar 31 12:33:56 2022: Heartbeat=101, Steps=4193, Cal=3617
+Thu Mar 31 12:34:00 2022: Heartbeat=138, Steps=2922, Cal=2424
