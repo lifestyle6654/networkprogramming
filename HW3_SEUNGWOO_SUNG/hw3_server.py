@@ -1,8 +1,5 @@
 from socket import *
 
-table = {'1': '1', '2': '2', '3': 'three', '4': 'four', '5': 'five',
-         '6': 'six', '7': 'seven', '8': 'eight', '9': 'nine', '10': 'ten'}
-
 s = socket(AF_INET, SOCK_STREAM)
 s.bind(('', 3333))
 s.listen(5)

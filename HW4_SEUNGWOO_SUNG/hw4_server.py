@@ -10,9 +10,13 @@ while True:
     data = c.recv(1024)
     msg = data.decode()
     req = msg.split('\r\n')
+    print(req)
     req2 = req[0].split(' ')
+    print(req2)
     req3 = req2[1]
+    print(req3)
     req4 = req3[1:] # index.html parsing
+    print(req4)
 
     if req4 == 'index.html':
         f = open(req4, 'r', encoding='utf-8')

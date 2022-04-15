@@ -13,4 +13,3 @@ while True:
     s.send(msg.encode()) #send a message to server
     data = s.recv(BUFSIZE) #receive message from server
     print("Received message: %s" % data.decode())
-    s.close()
