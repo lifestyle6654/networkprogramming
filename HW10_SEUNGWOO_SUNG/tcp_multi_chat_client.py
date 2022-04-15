@@ -7,7 +7,7 @@ def handler(sock):
         print(msg.decode())
 
 s = socket(AF_INET, SOCK_STREAM)
-s.connect(('localhost', 2500))
+s.connect(('localhost', 4444))
 
 my_id = input('ID를 입력하세요: ')
 s.send(('[' + my_id + ']').encode())
