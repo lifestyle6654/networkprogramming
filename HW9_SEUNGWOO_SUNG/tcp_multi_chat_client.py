@@ -1,3 +1,6 @@
+# TCP를 이용한 단체 채팅 프로그램(멀티쓰레드): 클라이언트
+
+
 from socket import *
 import threading
 
