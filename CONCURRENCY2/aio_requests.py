@@ -1,3 +1,5 @@
+# 프로세스 성능 향상 방안: 비동기 I/O
+
 import asyncio
 import time
 import aiohttp

@@ -1,3 +1,5 @@
+# 스레딩을 사용하여 프로세스 성능 향상 
+
 import concurrent.futures
 import requests, threading, time
 

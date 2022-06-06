@@ -1,3 +1,5 @@
+# 프로세스 성능 향상 방안: 멀티프로세싱
+
 import requests, time
 import multiprocessing
 
