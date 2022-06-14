@@ -1,3 +1,5 @@
+# 카카오 API 사용하기: 비전(얼굴 검출)
+
 import requests
 
 API_URL = 'https://dapi.kakao.com/v2/vision/face/detect'

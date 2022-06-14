@@ -1,3 +1,5 @@
+# 카카오 API 사용하기: 비전(얼굴 검출(모자이크))
+
 import requests
 from PIL import Image, ImageFilter
 

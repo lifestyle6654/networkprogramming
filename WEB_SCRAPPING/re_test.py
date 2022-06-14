@@ -13,6 +13,7 @@ print(result)
 result = re.findall(r'([\w.]+)@(.+)(\.[a-z]{2,3})', text)
 print(result)
 print(''.join(result[0]))
+
 result = re.findall(r'([\w.]+)(@)(.+)(\.[a-z]{2,3})', text)
 print(result)
 print(''.join(result[0]))

@@ -1,3 +1,5 @@
+# 카카오 API 사용하기: 로그인 + 소셜 + 메시지 전체 코드
+
 from http.server import HTTPServer, BaseHTTPRequestHandler
 from urllib import parse,request
 import requests, json

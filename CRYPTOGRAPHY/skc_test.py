@@ -1,3 +1,5 @@
+# 가상환경에서 실행안됨 (가상환경 끄고 수행)
+
 from cryptography.fernet import Fernet
 
 key = Fernet.generate_key() #128bit key 생성
